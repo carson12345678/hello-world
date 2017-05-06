@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all!
+
+My name is Sheng. I am a student. 
